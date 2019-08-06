@@ -18,7 +18,6 @@ Set RootViewController to the new VC
 
 6. Done Run the app.
 
-===========
 
 Working with Views
 ---------
