@@ -1,8 +1,7 @@
 # StarteriOSAppUsingXIB-iOS
 A starter app in iOS made using XIBs, no storyboards
 
-Steps to follow when creating XIB and View Controller separately <br />
-
+<h2>Steps to follow when creating XIB and View Controller separately </h2>
 
 1. Add a View to the app.
 
