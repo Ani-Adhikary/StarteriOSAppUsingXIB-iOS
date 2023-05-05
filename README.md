@@ -23,3 +23,8 @@ Working with Views
 ---------
 
 Open the xib - Select File's owner - in the Identity Insp - set the Custom Class to the UIView subclas
+
+
+<h2>Starter 2023 </h2>
+
+https://sarunw.com/posts/how-to-create-new-xcode-project-without-storyboard/
